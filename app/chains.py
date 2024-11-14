@@ -46,7 +46,7 @@ class Chain:
             Your job is to write a cold email to the client regarding the job mentioned above describing the capability of ABC 
             in fulfilling their needs.
             Also add the most relevant ones from the following links to showcase ABC's portfolio: {link_list}
-            Remember you are Mohan, BDE at ABC. 
+            Remember you are Aravinda, BDE at ABC. 
             Do not provide a preamble.
             ### EMAIL (NO PREAMBLE):
 
