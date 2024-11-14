@@ -8,7 +8,7 @@ This tool is designed for service-oriented companies to streamline their outreac
 
 Imagine a large brand, such as a well-known sportswear company, is seeking a Principal Software Engineer and investing considerable resources in recruiting, onboarding, and training for this role.
 
-Atliq, a software development company, can step in to fulfill this need by providing a dedicated software engineer. A business development executive from Atliq, such as Mohan, could then reach out to the sportswear brand through a cold email, tailored to showcase how Atliq’s services can support the brand’s goals.
+Atliq a hypothetical software development company, can step in to fulfill this need by providing a dedicated software engineer. A business development executive from Atliq, such as Mohan, could then reach out to the sportswear brand through a cold email, tailored to showcase how Atliq’s services can support the brand’s goals.
 
 ![Cold Email Generator Interface](imgs/img.png)
 
