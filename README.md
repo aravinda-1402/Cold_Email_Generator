@@ -10,7 +10,7 @@ Imagine a large brand, such as a well-known sportswear company, is seeking a Pri
 
 ABC a hypothetical software development company, can step in to fulfill this need by providing a dedicated software engineer. A business development executive from ABC, such as Aravinda, could then reach out to the sportswear brand through a cold email, tailored to showcase how ABC’s services can support the brand’s goals.
 
-<img src="imgs/app_img.png" alt="Cold Email Generator Interface" width="1200" height="420"/>
+<img src="imgs/app_img.png" alt="Cold Email Generator Interface" width="1200" height="410"/>
 
 
 ---
